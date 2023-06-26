@@ -1,7 +1,7 @@
 What is ChatGPT?
 ==================================================
 
-ChatGPT is an advanced chatbot technology that uses deep learning algorithms to generate human-like responses to user input. Developed by OpenAI, ChatGPT is based on the GPT-3 language model and is capable of understanding and responding to natural language in real-time.
+ChatGPT is an advanced chatbot technology that uses deep learning algorithms to generate human-like responses to user input. Developed by OpenAI, ChatGPT is based on the GPT-3.5 language model and is capable of understanding and responding to natural language in real-time.
 
 At its core, ChatGPT is designed to create engaging and immersive experiences for users through interactive storytelling. By providing personalized and dynamic content, ChatGPT can create narratives that respond to individual users' choices and preferences, leading to more satisfying and enjoyable experiences.
 
