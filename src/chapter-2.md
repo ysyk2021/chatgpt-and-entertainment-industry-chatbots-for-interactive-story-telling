@@ -1,5 +1,3 @@
-Chapter 1: Basics of Entertainment Industry
-===========================================
 
 The entertainment industry is a diverse and dynamic field that encompasses a wide range of businesses and creative endeavors. In this chapter, we will explore the basics of the entertainment industry, including its definition, different types of entertainment businesses, and the importance of interactive storytelling within this sector.
 

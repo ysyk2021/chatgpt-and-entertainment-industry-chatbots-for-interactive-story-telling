@@ -1,5 +1,3 @@
-How AI and chatbots can improve interactive storytelling
-==========================================================================================================================
 
 The entertainment industry is constantly evolving, with new technologies and platforms emerging to engage audiences. One technology that is gaining traction in the industry is artificial intelligence (AI) and chatbots. In this chapter, we will explore the role of AI and chatbots in entertainment industry and how they can improve interactive storytelling.
 
@@ -37,5 +35,4 @@ Conclusion
 In conclusion, AI and chatbots have the potential to revolutionize interactive storytelling in the entertainment industry. By providing personalization, interactivity, accessibility, and new opportunities for creativity, AI and chatbots can help to create more engaging and immersive experiences for audiences.
 
 As the technology continues to evolve, it is likely that we will see even more innovative uses of AI and chatbots in entertainment industry, leading to even more exciting and dynamic forms of storytelling.
-
 

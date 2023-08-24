@@ -1,5 +1,3 @@
-Steps to implement ChatGPT in entertainment industry
-===============================================================================================================
 
 Implementing ChatGPT in the entertainment industry can be a complex process that requires careful planning and execution. In this chapter, we will explore the steps involved in implementing ChatGPT in the entertainment industry.
 

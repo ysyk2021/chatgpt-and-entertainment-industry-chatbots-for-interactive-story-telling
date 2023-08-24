@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Entertainment Industry
-================================================================
 
 AI and chatbots are becoming increasingly popular in the entertainment industry, with many companies implementing them to enhance the audience's experience. In this chapter, we will explore the role of AI and chatbots in entertainment industry, how they can improve interactive storytelling, and the benefits of using them for entertainment industry.
 

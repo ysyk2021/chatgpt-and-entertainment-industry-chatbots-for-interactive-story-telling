@@ -1,5 +1,3 @@
-Summary of key points
-=================================
 
 In this book, we have explored the potential of ChatGPT in the entertainment industry for improving interactive storytelling. Here are the key points that we have discussed:
 

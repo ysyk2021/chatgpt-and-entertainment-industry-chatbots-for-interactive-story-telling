@@ -1,5 +1,3 @@
-How ChatGPT can be used for interactive storytelling
-======================================================================================
 
 ChatGPT is an AI-powered chatbot that has the potential to revolutionize the way we experience interactive storytelling within the entertainment industry. In this chapter, we will explore in detail how ChatGPT works and how it can be used to create engaging and personalized experiences for audiences.
 

@@ -1,5 +1,3 @@
-Definition of the entertainment industry
-=====================================================================================
 
 The entertainment industry is a dynamic and diverse field that encompasses a wide range of businesses and creative endeavors. In this chapter, we will explore the definition of the entertainment industry and some of the key characteristics that make it unique.
 
@@ -23,5 +21,4 @@ Conclusion
 ----------
 
 In conclusion, the entertainment industry is a diverse and dynamic field that encompasses a wide range of businesses involved in creating, producing, and distributing content for mass consumption. Its focus on creativity, talent, and emotional engagement makes it unique among other industries, and its ability to adapt to changing consumer preferences and trends ensures that it remains a vital and evolving sector of the global economy.
-
 

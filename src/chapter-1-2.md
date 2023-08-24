@@ -1,5 +1,3 @@
-Explanation of the entertainment industry and its importance
-==========================================================================
 
 The entertainment industry is a vast and diverse field that encompasses a wide range of businesses involved in creating, producing, and distributing content for mass consumption. From film and television production to music concerts and video games, the entertainment industry touches nearly every aspect of our lives and has an enormous impact on our culture and society.
 

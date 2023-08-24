@@ -1,5 +1,3 @@
-Potential advancements in entertainment industry with ChatGPT
-=======================================================================================================================
 
 As technology continues to advance, the potential for ChatGPT in the entertainment industry is virtually limitless. In this chapter, we will explore some of the potential advancements that ChatGPT could bring to the industry in the future.
 

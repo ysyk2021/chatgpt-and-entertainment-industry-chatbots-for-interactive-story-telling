@@ -1,5 +1,3 @@
-Impact of these challenges on customer experience
-==================================================================================================
 
 The entertainment industry is facing several challenges that are impacting the customer experience. In this chapter, we will explore some of these challenges and their impact on customer experience.
 

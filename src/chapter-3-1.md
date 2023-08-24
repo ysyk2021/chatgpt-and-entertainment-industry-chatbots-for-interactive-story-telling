@@ -1,5 +1,3 @@
-Factors affecting entertainment industry
-=========================================================================================
 
 The entertainment industry is a complex and dynamic field that is influenced by several factors. In this chapter, we will explore some of the key factors affecting the entertainment industry and their impact on the challenges faced by companies in this sector.
 

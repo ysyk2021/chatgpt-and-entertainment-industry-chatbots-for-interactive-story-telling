@@ -1,5 +1,3 @@
-Features and capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a cutting-edge technology that has the potential to transform the way we experience interactive storytelling in the entertainment industry. In this chapter, we will explore the features and capabilities of ChatGPT in detail.
 

@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 In this book, "ChatGPT and Entertainment Industry: Chatbots for Interactive Storytelling," we explored the potential of chatbots in improving interactive storytelling in the entertainment industry. We discussed the challenges facing the industry and how AI technology can be used to overcome them.
 

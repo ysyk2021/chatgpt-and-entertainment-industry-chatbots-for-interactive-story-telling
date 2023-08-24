@@ -1,5 +1,3 @@
-Overview of the book
-==================================
 
 The entertainment industry is constantly evolving, with new technologies and platforms emerging to disrupt traditional business models and provide new opportunities for creativity and innovation. One technology that has the potential to revolutionize the way we experience interactive storytelling is ChatGPT.
 

@@ -1,5 +1,3 @@
-Different types of entertainment businesses
-========================================================================================
 
 The entertainment industry is a diverse and complex field that encompasses a wide range of businesses involved in creating, producing, and distributing content for mass consumption. In this chapter, we will explore some of the different types of entertainment businesses.
 

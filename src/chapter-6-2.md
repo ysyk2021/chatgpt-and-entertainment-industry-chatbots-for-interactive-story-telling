@@ -1,5 +1,3 @@
-Best practices for using ChatGPT in interactive storytelling
-=======================================================================================================================
 
 When it comes to using ChatGPT for interactive storytelling within the entertainment industry, there are several best practices that creators should keep in mind. In this chapter, we will explore these best practices in detail.
 

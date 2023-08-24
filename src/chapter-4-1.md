@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-=================================================================================================
 
 Artificial intelligence (AI) and chatbots are rapidly transforming the entertainment industry. In this chapter, we will introduce AI and chatbots and explore their role in the entertainment industry.
 

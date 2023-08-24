@@ -1,5 +1,3 @@
-Conclusion and future outlook
-=======================================================================================
 
 The use of chatbots for interactive storytelling in the entertainment industry is a rapidly evolving field with exciting possibilities. In this chapter, we will explore the future of entertainment industry with ChatGPT and provide a conclusion to this book.
 
@@ -28,5 +26,4 @@ In conclusion, the future of entertainment industry with ChatGPT is bright. As A
 By integrating with emerging technologies and expanding into other forms of entertainment, chatbots will continue to revolutionize the way we engage with entertainment.
 
 We hope that this book has provided valuable insights into the use of chatbots for interactive storytelling in the entertainment industry and inspired readers to explore the possibilities in this exciting field.
-
 

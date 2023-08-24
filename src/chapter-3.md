@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Entertainment Industry
-===============================================
 
 The entertainment industry is constantly evolving, and with new technologies come new challenges. In this chapter, we will explore the factors affecting the entertainment industry, common challenges faced by entertainment businesses, and the impact of these challenges on customer experience.
 

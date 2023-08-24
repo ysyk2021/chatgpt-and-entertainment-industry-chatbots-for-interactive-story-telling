@@ -1,5 +1,3 @@
-Importance of interactive storytelling in entertainment
-====================================================================================================
 
 The entertainment industry is a vast and diverse field that encompasses a wide range of content formats, including film, television, music, gaming, and more. In this chapter, we will explore the basics of the entertainment industry and the importance of interactive storytelling within this sector.
 
