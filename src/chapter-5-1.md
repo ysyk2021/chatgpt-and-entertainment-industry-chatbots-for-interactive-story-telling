@@ -1,5 +1,4 @@
-What is ChatGPT?
-================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an AI-powered language model developed by OpenAI, designed to generate human-like text responses to user inputs. It is based on the Generative Pre-trained Transformer 3 (GPT-3) architecture and uses a massive dataset of over 45 terabytes of text from various sources such as books, articles, and websites to learn and generate responses.
 

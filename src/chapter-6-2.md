@@ -1,5 +1,4 @@
-Chapter 4: Best Practices for Using ChatGPT in Interactive Storytelling
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the best practices for utilizing chatbots powered by ChatGPT in interactive storytelling. Chatbots have the potential to enhance user engagement and immersion in the story, creating a more personalized and interactive experience. By following these best practices, entertainment industry professionals can maximize the potential of chatbots to create compelling interactive narratives.
 

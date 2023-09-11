@@ -1,5 +1,4 @@
-Potential Advancements in the Entertainment Industry with ChatGPT
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by GPT-3.5, presents numerous opportunities for advancements within the entertainment industry. In this chapter, we will explore the potential areas of growth and innovation that can be achieved through the integration of ChatGPT and its impact on various sectors of the entertainment industry.
 

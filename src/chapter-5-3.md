@@ -1,5 +1,4 @@
-How ChatGPT can be Used for Interactive Storytelling
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by GPT-3.5, offers exciting possibilities for incorporating AI-driven chatbots into interactive storytelling experiences. In this chapter, we will explore how ChatGPT can be utilized in interactive storytelling and the unique benefits it brings to this form of entertainment.
 

@@ -1,5 +1,4 @@
-Chapter 6: Factors Affecting the Entertainment Industry
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various factors that have a significant impact on the entertainment industry's adoption and utilization of ChatGPT and chatbots for interactive storytelling experiences.
 

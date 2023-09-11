@@ -1,5 +1,4 @@
-Impact of These Challenges on Customer Experience
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of ChatGPT and chatbots in the entertainment industry for interactive storytelling brings numerous benefits, but it also poses certain challenges that can have an impact on the customer experience. In this chapter, we will explore these challenges and examine how they can affect the overall user satisfaction.
 

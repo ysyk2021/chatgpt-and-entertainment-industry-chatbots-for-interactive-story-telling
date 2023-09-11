@@ -1,5 +1,4 @@
-Chapter 2: How AI and Chatbots Can Improve Interactive Storytelling
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) and chatbots can enhance interactive storytelling in the entertainment industry. By leveraging AI technologies like ChatGPT, content creators can deliver more immersive, engaging, and personalized experiences for audiences.
 

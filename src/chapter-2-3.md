@@ -1,5 +1,4 @@
-Importance of Interactive Storytelling in Entertainment
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Interactive storytelling has emerged as a powerful and engaging form of entertainment, revolutionizing the way audiences experience narratives. In this chapter, we will explore the importance of interactive storytelling in the entertainment industry and the impact it has on audience engagement and immersion.
 

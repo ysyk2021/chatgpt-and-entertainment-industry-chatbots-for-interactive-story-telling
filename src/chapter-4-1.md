@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introduction to artificial intelligence (AI) and chatbots, highlighting their significance in the entertainment industry for interactive storytelling. Understanding the fundamentals of AI and chatbot technology is essential for leveraging their potential in creating engaging and immersive experiences for audiences.
 

@@ -1,5 +1,4 @@
-Conclusion and Future Outlook
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this book, we explored the integration of ChatGPT and chatbots into the entertainment industry, specifically focusing on interactive storytelling. Throughout the chapters, we discussed the potential advancements, benefits, and challenges associated with this technology. Now, let's conclude our findings and look ahead to the future of ChatGPT in the entertainment industry.
 

@@ -1,5 +1,4 @@
-Chapter 3: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the features and capabilities of ChatGPT, an advanced AI language model developed by OpenAI. Understanding the capabilities of ChatGPT is essential for leveraging its power in creating interactive storytelling experiences in the entertainment industry.
 

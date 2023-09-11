@@ -1,5 +1,4 @@
-Definition of the Entertainment Industry
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The entertainment industry encompasses a wide range of sectors and activities that aim to entertain, engage, and captivate audiences. It consists of various forms of media, content creation, performance arts, and interactive experiences. In this chapter, we will explore the definition and scope of the entertainment industry.
 

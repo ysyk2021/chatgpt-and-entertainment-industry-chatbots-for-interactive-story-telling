@@ -1,5 +1,4 @@
-Different Types of Entertainment Businesses
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The entertainment industry is diverse and encompasses a wide range of businesses that contribute to creating, producing, distributing, and promoting entertainment content. In this chapter, we will explore some of the different types of entertainment businesses and their roles within the industry.
 

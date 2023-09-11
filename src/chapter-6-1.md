@@ -1,5 +1,4 @@
-Steps to Implement ChatGPT in the Entertainment Industry
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Chatbots powered by ChatGPT have rapidly transformed the entertainment industry, providing interactive and engaging experiences for users. In this chapter, we will outline the key steps needed to implement ChatGPT in the entertainment industry.
 

@@ -1,5 +1,4 @@
-Chapter 7: The Role of ChatGPT in Interactive Storytelling
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significant role that ChatGPT plays in enabling interactive storytelling experiences within the entertainment industry.
 

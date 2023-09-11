@@ -1,5 +1,4 @@
-Chapter 5: Common Challenges Faced by Entertainment Businesses
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the common challenges faced by entertainment businesses when utilizing ChatGPT and chatbots for interactive storytelling experiences.
 
